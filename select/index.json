@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "今夜はHearty Party",
+  "base_artist": "Juice=Juice",
+  "createdAt": "2026-02-19T09:50:27.734682Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "今夜はHearty Party (2001 Remix Version)",
+      "artist": "Mariya Takeuchi",
+      "has_synced": true,
+      "path": "select/01_今夜はHearty_Party_(2001_Remix_Version)_Mariya_Takeuchi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "今夜はHearty Party (feat. ひかり)",
+      "artist": "Tokimeki Records",
+      "has_synced": true,
+      "path": "select/02_今夜はHearty_Party_(feat._ひかり)_Tokimeki_Records.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "今夜はHearty Party",
+      "artist": "Juice=Juice",
+      "has_synced": false,
+      "path": "select/pl_01_今夜はHearty_Party_Juice=Juice.txt"
+    }
+  ]
+}
